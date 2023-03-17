@@ -27,8 +27,8 @@
     "react-native": ">=0.57.0 <1.0.x"
   },
   "devDependencies": {
-    "react": "17.0.1",
-    "react-native": "0.64.4"
+    "react": "18.1.0",
+    "@types/react-native": "^0.70.6"
   },
   "dependencies": {}
 }
